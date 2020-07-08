@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there, I'm Anshuman. I love sammy🐶, music (Bollywood & Enrique) and gaming (MOHW and DMC).
+I'm Anshuman. I love sammy🐶, music (Bollywood & Enrique) and gaming (CSGO, MOHW and DMC).
 Like Batman 🦇, I work late at night. I like teaching and sharing what I learned mostly the hard way.
 Other than that I build tools for humans 😎.
 
