@@ -7,6 +7,6 @@ Other than that I build tools for humans 😎.
 - 🌱 I’m currently learning about microservices and kubernetes
 - 💬 Ask me about ReactJs, ReactNative and Javascript
 - 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/itsanshuman/)
-- ✍🏽  Follow me on [Medium](https://youngbatman.medium.com) for interesting articles
+- ✍🏽  Follow me on [Medium](https://anshuman-bhardwaj.medium.com) for interesting articles
 - ⚡ Fun fact: I am @SteveRogers on CounterStrike:GlobelOffensive
 
