@@ -2,7 +2,7 @@
 
 I'm Anshuman a self-taught developer passionate about empowering people with the skills I have learned. I love building an awesomely beautiful frontend for seamless user experience and flawless back end for a scalable & reliable business.
 
-- Community Engineer at [Vercel](https://vercel.community)
+- Community Engineer at [Vercel](https://community.vercel.com)
 - 🌱 I’m currently building 
   - [useglossary.com](https://useglossary.com)- Your teams knowledgebase in Slack
 - 💬 Ask me about ReactJs, Next.js, ReactNative and Javascript
